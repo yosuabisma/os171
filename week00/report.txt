@@ -1,0 +1,3 @@
+Tugas di week00 adalah mengenal GitHub dengan membuat GitHub account.
+Kemudian mengenal bagaimana menggunakan PuTTY untuk login ke badak.cs.ui.ac.id.
+Tambahan lainnya adalah berusaha menambah pengetahuan tentang sistem operasi.
