@@ -1,0 +1,2 @@
+Tugas week01 mengenal sintaks-sintaks yang diperlukan untuk menjalankan suatu perintah lewat terminal
+Seperti perintah untuk membuat file, perintah memanggil text editor, perintah melakukan deleting, dan sebagainya.
