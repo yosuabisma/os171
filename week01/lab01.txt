@@ -20,3 +20,4 @@ drwxr-xr-x  2 yosua.bisma StafCS 4096 Feb 15 15:06 week09
 drwxr-xr-x  2 yosua.bisma StafCS 4096 Feb 15 15:06 week10
 drwxr-xr-x  2 yosua.bisma StafCS 4096 Feb 15 15:08 xtra
 /home/fasilkom/mahasiswa/y/yosua.bisma/os171/week01
+Today is 15 Feb 2017 at 17:41:45
