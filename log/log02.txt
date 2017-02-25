@@ -20,3 +20,5 @@ w02-170223-23-LR-Membaca materi Protection, From: Slide Bahan Ajar Lama
 w02-170224-19-DS-Diskusi tentang C Programming
 w02-170224-20-LR-Menonton video tentang C Programming, From: https://www.youtube.com/watch?v=rk2fK2IIiiQ
 w02-170224-22-DS-Diskusi week02 task
+w02-170225-10-LR-Menonton video tentang basic cryptography, From: https://www.youtube.com/watch?v=fNC3jCCGJ0o
+w02-170225-11-DS-Diskusi tentang cryptography
