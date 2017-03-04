@@ -1,0 +1,22 @@
+w03-170228-10-LR-Pengenalan Booting pada Linux, From: Lecturer
+w03-170228-10-LR-Pengenalan Booting pada Linux, From: Lecturer
+w03-170228-11-LR-Pengenalan BIOS,GRUB, Systemd, From: Lecturer
+w03-170228-11-DS-Diskusi setelah kelas
+w03-170302-09-DS-Diskusi sebelum kelas
+w03-170302-10-LR-Review materi kuliah lalu, From: Lecturer
+w03-170302-10-LR-Addressing(Little-Endian, Big-Endian), From: Lecturer
+w03-170302-11-LR-Address Mapping
+w03-170302-11-DS-Diskusi setelah kelas
+w03-170303-20-PS-Mengerjakan task week03
+w03-170303-21-PS-Mengerjakan task week03
+w03-170303-22-PS-Mengerjakan task week03
+w03-170303-22-LR-Membaca materi suplementary week03, From: Slide Linux Booting Procedure
+w03-170303-23-LR-Membaca materi suplementary week03, From: Slide Linux Booting Procedure
+w03-170303-23-PS-Mengerjakan task week03
+w03-170304-00-DS-Diskusi Linux command
+w03-170304-08-PS-Mengerjakan task week03
+w03-170304-08-PS-Mencoba menjalankan beberapa Linux command pada Ubuntu OS
+w03-170304-09-PS-Mencoba menjalankan beberapa Linux command pada Ubuntu OS
+w03-170304-09-PS-Mengerjakan task week03
+w03-170304-10-DS-Diskusi Linux command
+w03-170304-11-DS-Diskusi Linux command
