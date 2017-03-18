@@ -1,0 +1,17 @@
+w05-170314-10-LR-Memory, Paging, Fragmentation, Swapping, From: Lecturer
+w05-170314-10-LR-Memory, Paging, Fragmentation, Swapping, From: Lecturer
+w05-170314-11-LR-Demo mengenai memory, From: Lecturer
+w05-170314-11-DS-Diskusi setelah kelas
+w05-170316-10-LR-Membahas soal-soal memory, From: Lecturer
+w05-170316-10-LR-Main Memory, From: Operating System book by Silberschatz
+w05-170316-11-LR-Membahas soal-soal, From: Lecturer
+w05-170316-11-DS-Diskusi setelah kelas
+w05-170317-22-DS-Diskusi task week05
+w05-170317-22-LR-Membaca materi Main Memory, From: Slide Bahan Ajar Lama
+w05-170317-23-PS-Mengerjakan task week05
+w05-170318-00-PS-Mengerjakan task week05
+w05-170317-08-DS-Diskusi task week05
+w05-170318-09-PS-Mengerjakan task week05
+w05-170318-09-LR-Membaca mengenai function malloc(), free(), system(), From: https://www.tutorialspoint.com/c_standard_library/
+w05-170318-10-PS-Mengerjakan task week05
+w05-170318-10-PS-Mengerjakan task week05
