@@ -1,0 +1,25 @@
+w06-170411-09-DS-Diskusi sebelum kelas
+w06-170411-10-LR-Process and Thread, From: Lecturer
+w06-170411-10-LR-Process and Thread, From: Lecturer
+w06-170411-11-LR-Demo mengenai Process and Thead, From: Lecturer
+w06-170411-11-DS-Diskusi setelah kelas
+w06-170413-09-DS-Diskusi sebelum kelas
+w06-170413-09-LR-Membaca cara kerja fork(), From: http://portofoliohasni.blogspot.co.id/2013/06/kerja-fork-dalam-sistem-operasi.html
+w06-170413-10-LR-Processes Synchronization, From: Lecturer
+w06-170413-10-LR-Processes Synchronization, From: Lecturer
+w06-170413-11-LR-Demo mengenai Processes Synchronization, From: Lecturer
+w06-170413-11-DS-Diskusi setelah kelas
+w06-170414-19-LR-Membaca materi Process and Thread, From: Slide Bahan Ajar Lama
+w06-170414-20-LR-Membaca materi Process and Thread, From: Slide Bahan Ajar Lama
+w06-170414-21-PS-Mengerjakan task week06
+w06-170414-21-PS-Mengerjakan task week06
+w06-170414-22-PS-Mengerjakan task week06
+w06-170414-23-PS-Mengerjakan task week06
+w06-170414-23-LR-Menonton video mengenai fork(), From: https://www.youtube.com/watch?v=xVSPv-9x3gk
+w06-170415-00-LR-Membaca materi Process and Thread, From: Slide Bahan Ajar Lama
+w06-170415-01-PS-Mengerjakan task week06
+w06-170415-01-PS-Mengerjakan task week06
+w06-170415-09-PS-Mengerjakan task week06
+w06-170415-09-PS-Mengerjakan task week06
+w06-170415-10-LR-Membaca materi Process Synchronization, From: Slide Bahan Ajar Lama
+
